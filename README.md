@@ -1,9 +1,3 @@
 # myFirstRepo
 
-```
-tyhhth
-```
-
-
-
-[![](1erlien)](2emelien)
+[![Picture](https://www.bing.com/images/search?view=detailV2&ccid=aYN0Ut1Z&id=63BB197598F3870AEC50D3CC5E8081C9FDAC6EC1&thid=OIP.aYN0Ut1ZZB4IHVl_Lf5rcwHaEK&mediaurl=https%3a%2f%2fwww.adorablesbetes.com%2fwp-content%2fuploads%2f2020%2f03%2fsant%c3%a9-chat-europ%c3%a9en.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.69837452dd59641e081d597f2dfe6b73%3frik%3dwW6s%252fcmBgF7M0w%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=chat&simid=608012609013829877&FORM=IRPRST&ck=FC83D53EB67A2ADE973EA88D0BC5CE53&selectedIndex=13&ajaxhist=0&ajaxserp=0)](https://www.bing.com/videos/search?q=chat&&view=detail&mid=B500639A4E18176B6D36B500639A4E18176B6D36&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dchat%26FORM%3DHDRSC4)
